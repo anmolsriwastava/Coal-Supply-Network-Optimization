@@ -1,0 +1,5 @@
+Scenario,Total Expected Cost (₹),Change from Base (₹),Change (%)
+Base Stochastic,1244333141.6348093,0.0,0.0
+S1: Nigahi Supply ↓ 20%,1201858655.643343,-42474485.991466284,-3.41
+S2: Vindhyachal Demand ↑ 30%,1381032239.8527515,136699098.21794224,10.99
+S3: Freight Rates ↑ 10%,1291904047.974144,47570906.33933473,3.82

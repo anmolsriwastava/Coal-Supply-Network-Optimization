@@ -1,0 +1,8 @@
+,Plant ID,Plant Name,Capacity (MW),Location,mean_demand,std_dev
+0,P1,Vindhyachal Super Thermal,4760,MP,1602216.0000000002,240332.40000000002
+1,P2,Singrauli Super Thermal,2000,UP,673200.0000000001,100980.00000000001
+2,P3,Rihand Super Thermal,3000,UP,1009800.0,151470.0
+3,P4,Obra Thermal Power Project,2920,UP,982872.0000000001,147430.80000000002
+4,P5,Anpara Thermal Power Station,3850,UP,1295910.0000000002,194386.50000000003
+5,P6,Renusagar Thermal Power Station,725,UP,244035.0,36605.25
+6,P7,Essar Mahan Thermal Power Project,600,MP,201960.0,30294.0
